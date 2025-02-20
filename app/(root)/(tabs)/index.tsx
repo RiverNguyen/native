@@ -2,7 +2,6 @@ import { Card, FeaturedCard } from "@/components/cards";
 import Filters from "@/components/filters";
 import Search from "@/components/search";
 import icons from "@/constants/icons";
-import images from "@/constants/images";
 import { useGlobalContext } from "@/lib/global-provider";
 import { FlatList, Image, Text, TouchableOpacity, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
